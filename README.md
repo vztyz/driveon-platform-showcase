@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/0b6733e2-6fe7-4b84-bf68-4377771187c5
-
 # 🚗 DRIVE ON — B2B/B2C-платформа цифровых автопрошивок и калибровок ЭБУ
 
 > **Showcase-репозиторий (Commercial / Closed Source).**  
@@ -22,7 +20,7 @@ https://github.com/user-attachments/assets/0b6733e2-6fe7-4b84-bf68-4377771187c5
 
 > Демонстрация пользовательского пути (тёмная тема, cookie-баннер по 152-ФЗ, каталог) и кастомной панели администратора (аналитика, нодовый редактор, проводник БД, распознаватель ЭБУ, Django Jazzmin).
 
-📹 **[Смотреть демо-видео (`assets/demo.mp4`)](./assets/demo.mp4)**  
+📹 **[Смотреть демо-видео [(`assets/demo.mp4`)](./assets/demo.mp4)](https://github.com/user-attachments/assets/0b6733e2-6fe7-4b84-bf68-4377771187c5)**  
 
 
 ---
